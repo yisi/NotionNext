@@ -1,7 +1,7 @@
 // 注: process.env.XX是Vercel的环境变量，配置方式见：https://docs.tangly1024.com/zh/features/personality
 const BLOG = {
   AUTHOR: '9', // 作者
-  BIO: '九宫，是一种哲学思维。', // 作者简介
+  BIO: '九宫，是一种哲学的思维方式。', // 作者简介
   LINK: 'http://lianzi.app', // 网站地址
   KEYWORDS: '书法, 九宫格, 练字', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
