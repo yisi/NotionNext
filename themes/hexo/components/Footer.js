@@ -22,7 +22,7 @@ const Footer = ({ title }) => {
         <i className='fas fa-users'/> <span className='px-1 busuanzi_value_site_uv'> </span> </span>
         <br/>
         <h1>{title}</h1>
-        <span className='text-xs font-serif'>Powered by <a href='https://github.com/tangly1024/NotionNext' className='underline dark:text-gray-300'>NotionNext {BLOG.VERSION}</a>.</span></span><br/>
+        <span className='text-xs font-serif'>Powered by <a href='https://shop72883365.taobao.com/search.htm?spm=a1z10.1-c.0.0.15571462FegCzV&search=y' className='underline dark:text-gray-300'>淘宝</a></span></span><br/>
 
     </footer>
   )
